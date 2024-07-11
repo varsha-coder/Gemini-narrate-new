@@ -20,6 +20,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+##GEMINI NARRATE is powered by a robust tech stack for seamless development:
+
+Prompt Engineering
+Generative AI
+LLM Models
+Gemini Pro
+Next.js
+Typescript
+Shadcn UI
+Tailwind CSS
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
