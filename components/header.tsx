@@ -1,4 +1,3 @@
-import Button from "./ui/Button";
 import { FaGithub } from "react-icons/fa6";
 import { Sparkles } from "lucide-react";
 import Link from "next/link";
